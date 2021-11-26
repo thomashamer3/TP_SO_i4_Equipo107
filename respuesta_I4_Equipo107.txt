@@ -1,0 +1,21 @@
+Ezequiel Perez - BETA
+Thomas Hamer - GAMMA
+
+RESPUESTAS:
+A- El color de TESTING quedó en Azul.
+
+B- El color de DESARROLLO quedó en Amarillo.
+
+C- El color de master quedó en Azul.
+
+D- Quedó el favicon de BETA.
+
+E- No hubieron problemas.
+
+F- Existieron problemas al hacer el merge de las ramas.
+
+G- Los problemas del merge se solucionó editando los datos de manera manual.
+
+H- Se fuerza la subida de los cambios y se pueden perder.
+
+I-Debo hacer un merge entre Testing Y Desarrollo.
